@@ -21,3 +21,14 @@
 * Chapter 15: Animations
 * Chapter 16: Boost the performance
 * Chapter 17: Vue under the hood 
+
+## Contributions
+
+Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc.
+
+Any contributions you make to this effort **are of course greatly appreciated**
+
+## Medium Articles about the book
+
+* [Part 1](https://medium.com/@vardanhayrapetyan/vue-js-the-progressive-javascript-framework-part-1-74c376d2bee2)
+* Part 2 - In progress
