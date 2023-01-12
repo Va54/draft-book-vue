@@ -5,7 +5,7 @@
 ### Draft Chapters
 
 * Chapter 1: Web Components
-* Chapter 2: Philosophy behind VUE.js
+* Chapter 2: Philosophy behind VUE.js - In progress
 * Chapter 3:  Syntax
 * Chapter 4:  Directives and how to create one
 * Chapter 5:  Reactive and ref
